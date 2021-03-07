@@ -5,3 +5,5 @@ Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
 
 About the dataset: This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+
+The Jupyter Notebook contains a comparision of six ML models on the prediction of heart disease on the UCI heart disease dataset.
